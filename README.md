@@ -5,7 +5,7 @@ Measures temperature, humidity, smoke (MQ-2) and multi-gas levels (MQ-135) and s
 - DHT11 sensor for ambient temperature & humidity.  
 - MQ-2 for smoke/LPG concentration.  
 - MQ-135 for CO₂, NH₃, benzene and other gases[2].  
-- All readings printed to the built-in Serial Monitor—no LEDs, buzzer or display required.  
+- All readings printed to the built-in Serial Monitor.
 - Modular sketch with simple calibration helpers.
 
 ## Bill of Materials
